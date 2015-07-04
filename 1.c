@@ -1,0 +1,1 @@
+#include <stdio.h>#include <string.h>#include <stddef.h>#include <stdlib.h>#include <math.h>int main() {	char *xyi = (char*)malloc(10);	char *xer = (char*)malloc(10);	strcpy(xer, "sdasd");	char *s = xer;	int sqw = strlen(s);	printf("%d\n", sqw);}
