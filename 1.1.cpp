@@ -10,4 +10,4 @@ int main() {
 		if ((i%3 == 0) || (i%5 == 0)) sum += i;
 	}
 	printf  ("Your number is:%d\n", sum);
-}
+} хуйня такая
