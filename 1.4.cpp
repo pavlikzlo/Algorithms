@@ -6,7 +6,7 @@ int isPolindrom(int x, int y){
 		if (((x/10)%10) == ((y%100)/10))
 			if ((x/100) == (y%10))
 				return 1;
-	else return 0; 
+	else return 0; //что это?
 }
 
 int main(){
